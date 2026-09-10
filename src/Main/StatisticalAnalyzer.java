@@ -1,3 +1,5 @@
+package Main;
+
 public class StatisticalAnalyzer {
     public int findMostLikelyShift(String encryptedText,
                                    char[] alphabet,
